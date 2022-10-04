@@ -18,7 +18,7 @@ public class Script1 extends TestBase {
     @Test(description = "Check title", priority = 1)
     public void checkTitle(){
         getApplicationUrl(ObjectReader.reader.getUrl());
-        Day1 day1 = new Day1();
+        Day1 day1 = new Day1(driver);
         boolean title = day1.checkTitle();
         AssertionHelper.updateTestStatus(title);
     }
@@ -26,7 +26,7 @@ public class Script1 extends TestBase {
     @Test(description = "Click to mobile", priority = 2)
     public void clickToMobile(){
         getApplicationUrl(ObjectReader.reader.getUrl());
-        Day1 day1 = new Day1();
+        Day1 day1 = new Day1(driver);
         day1.clickToMobile();
     }
 

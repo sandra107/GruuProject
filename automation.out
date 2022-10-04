@@ -28,3 +28,61 @@
 2022-10-03 23:10:580 INFO  TestBase:54 - *************clickToMobile Strated ****************
 2022-10-03 23:10:605 INFO  Day1:48 - Clicking to mobile
 2022-10-03 23:10:59 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-04 09:10:699 INFO  TestBase:58 - Initialize Web driver: 917935693
+2022-10-04 09:10:702 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:702 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-04 09:10:718 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-04 09:10:724 INFO  WaitHelper:78 - page is loaded
+2022-10-04 09:10:867 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-04 09:10:446 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-04 09:10:740 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-04 09:10:447 INFO  Day1:52 - Clicking to mobile
+2022-10-04 09:10:772 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-04 09:10:756 INFO  TestBase:58 - Initialize Web driver: 749362556
+2022-10-04 09:10:765 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:765 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-04 09:10:781 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-04 09:10:784 INFO  WaitHelper:78 - page is loaded
+2022-10-04 09:10:950 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-04 09:10:874 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:886 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (28f26a88fdd54195ac4b5ed57afa131e)] -> css selector: h2] for :100 seconds
+2022-10-04 09:10:932 INFO  WaitHelper:91 - element is visible now
+2022-10-04 09:10:956 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-04 09:10:202 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-04 09:10:652 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:662 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (28f26a88fdd54195ac4b5ed57afa131e)] -> css selector: h2] for :100 seconds
+2022-10-04 09:10:687 INFO  WaitHelper:91 - element is visible now
+2022-10-04 09:10:688 INFO  Day1:53 - Clicking to mobile
+2022-10-04 09:10:528 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-04 09:10:315 INFO  TestBase:58 - Initialize Web driver: 726843606
+2022-10-04 09:10:318 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:318 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-04 09:10:330 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-04 09:10:333 INFO  WaitHelper:78 - page is loaded
+2022-10-04 09:10:478 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-04 09:10:241 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:254 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (19b355764218f493570d033728138ff4)] -> css selector: h2] for :100 seconds
+2022-10-04 09:10:292 INFO  WaitHelper:91 - element is visible now
+2022-10-04 09:10:318 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-04 09:10:540 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-04 09:10:48 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:60 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (19b355764218f493570d033728138ff4)] -> css selector: h2] for :100 seconds
+2022-10-04 09:10:88 INFO  WaitHelper:91 - element is visible now
+2022-10-04 09:10:89 INFO  Day1:53 - Clicking to mobile
+2022-10-04 09:10:262 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-04 09:10:841 INFO  TestBase:58 - Initialize Web driver: 925803196
+2022-10-04 09:10:844 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:846 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-04 09:10:866 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-04 09:10:876 INFO  WaitHelper:78 - page is loaded
+2022-10-04 09:10:41 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-04 09:10:852 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:868 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (31bdfbdce15416693364ceb08f3eada8)] -> css selector: h2] for :100 seconds
+2022-10-04 09:10:906 INFO  WaitHelper:91 - element is visible now
+2022-10-04 09:10:932 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-04 09:10:145 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-04 09:10:614 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-04 09:10:625 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (31bdfbdce15416693364ceb08f3eada8)] -> css selector: h2] for :100 seconds
+2022-10-04 09:10:648 INFO  WaitHelper:91 - element is visible now
+2022-10-04 09:10:648 INFO  Day1:53 - Clicking to mobile
+2022-10-04 09:10:592 INFO  TestBase:141 - **************clickToMobileFinished***************

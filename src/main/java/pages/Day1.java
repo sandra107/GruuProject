@@ -26,8 +26,15 @@ public class Day1 {
     @FindBy(css = "select[title=\"Sort By\"]")
     WebElement sortBy;
 
-    public void Day1(WebDriver driver){
+    /**
+     * Hàm tạo (Constructor)
+     * Khởi tạo giá trị cho các thuộc tính hoặc thực hiện các hoạt động khởi tạo
+     * PageFactory là phần mở rộng của POM, giúp khởi tạo các đôi tượng WE tối ưu và giảm thiếu code
+     *
+     */
+    public  Day1(WebDriver driver){
         this.driver = driver;
+        //Khởi tạo phần tử bằng initElements() -> Khởi tạo các phần tử web mà chúng định vị bằng sd @FindBy
         PageFactory.initElements(driver, this);
         waitHelper = new WaitHelper(driver);
         waitHelper.waitForElement(title, ObjectReader.reader.getExplicitWait());
@@ -35,10 +42,8 @@ public class Day1 {
     }
 
     public boolean checkTitle(){
-        String acTitle = title.getText();
-        System.out.println(acTitle);
-        String msg = "THIS IS DEMO SITE FOR   ";
-        if(acTitle.equals(msg)){
+        if(title.getAttribute("title").isEmpty()){
+            String msg = "THIS IS DEMO SITE FOR   ";
             return true;
         }
         return false;
@@ -48,6 +53,6 @@ public class Day1 {
         log.info("Clicking to mobile");
         TestBase.logExtentReport("Clicking to mobile in testbase");
         mobile.click();
-        new Select(sortBy).deselectByVisibleText("Name");
+        new Select(sortBy).selectByVisibleText("Name");
     }
 }

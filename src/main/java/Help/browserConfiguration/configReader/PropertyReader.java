@@ -47,7 +47,7 @@ public class PropertyReader implements ConfigReader {
         if(System.getProperty("url")!=null){
             return System.getProperty("url");
         }
-        return OR.getProperty("applicationUrl");
+        return OR.getProperty("BASE_URL");
     }
 
 }

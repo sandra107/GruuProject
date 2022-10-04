@@ -1,0 +1,30 @@
+2022-10-03 23:10:773 INFO  TestBase:58 - Initialize Web driver: 1933077874
+2022-10-03 23:10:781 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-03 23:10:782 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-03 23:10:802 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-03 23:10:807 INFO  WaitHelper:78 - page is loaded
+2022-10-03 23:10:112 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-03 23:10:586 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-03 23:10:631 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-03 23:10:821 INFO  Day1:46 - Clicking to mobile
+2022-10-03 23:10:247 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-03 23:10:274 INFO  TestBase:58 - Initialize Web driver: 1318475957
+2022-10-03 23:10:282 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-03 23:10:283 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-03 23:10:312 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-03 23:10:323 INFO  WaitHelper:78 - page is loaded
+2022-10-03 23:10:572 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-03 23:10:529 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-03 23:10:467 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-03 23:10:168 INFO  Day1:47 - Clicking to mobile
+2022-10-03 23:10:638 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-03 23:10:930 INFO  TestBase:58 - Initialize Web driver: 557725225
+2022-10-03 23:10:936 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-03 23:10:937 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-03 23:10:955 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-03 23:10:960 INFO  WaitHelper:78 - page is loaded
+2022-10-03 23:10:205 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-03 23:10:360 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-03 23:10:580 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-03 23:10:605 INFO  Day1:48 - Clicking to mobile
+2022-10-03 23:10:59 INFO  TestBase:141 - **************clickToMobileFinished***************

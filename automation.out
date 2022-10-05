@@ -86,3 +86,114 @@
 2022-10-04 09:10:648 INFO  WaitHelper:91 - element is visible now
 2022-10-04 09:10:648 INFO  Day1:53 - Clicking to mobile
 2022-10-04 09:10:592 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-05 10:10:520 INFO  TestBase:58 - Initialize Web driver: 424732838
+2022-10-05 10:10:522 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:522 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 10:10:533 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 10:10:537 INFO  WaitHelper:78 - page is loaded
+2022-10-05 10:10:683 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-05 10:10:406 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:424 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (66af0f356a51a18889ebae2827f8a109)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:473 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:478 INFO  VerificationHelper:74 - page title is: Guru99 Bank Home Page
+2022-10-05 10:10:650 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-05 10:10:10 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-05 10:10:86 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:95 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (66af0f356a51a18889ebae2827f8a109)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:122 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:122 INFO  Day1:55 - Clicking to mobile
+2022-10-05 10:10:655 INFO  TestBase:58 - Initialize Web driver: 726843606
+2022-10-05 10:10:658 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:659 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 10:10:670 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 10:10:674 INFO  WaitHelper:78 - page is loaded
+2022-10-05 10:10:865 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-05 10:10:438 INFO  TestBase:58 - Initialize Web driver: 726843606
+2022-10-05 10:10:441 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:441 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 10:10:450 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 10:10:452 INFO  WaitHelper:78 - page is loaded
+2022-10-05 10:10:593 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-05 10:10:593 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:608 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (2c06bd6128f8359b63d85a824155d9e6)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:646 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:651 INFO  VerificationHelper:74 - page title is: Home page
+2022-10-05 10:10:838 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-05 10:10:157 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-05 10:10:743 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:750 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (2c06bd6128f8359b63d85a824155d9e6)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:776 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:776 INFO  Day1:55 - Clicking to mobile
+2022-10-05 10:10:748 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-05 10:10:547 INFO  TestBase:58 - Initialize Web driver: 925803196
+2022-10-05 10:10:551 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:552 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 10:10:566 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 10:10:571 INFO  WaitHelper:78 - page is loaded
+2022-10-05 10:10:732 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-05 10:10:566 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:579 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (cd0cac7583d96dd6e67136c32565d23e)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:622 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:629 INFO  VerificationHelper:74 - page title is: Home page
+2022-10-05 10:10:871 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-05 10:10:199 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-05 10:10:732 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:741 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (cd0cac7583d96dd6e67136c32565d23e)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:791 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:791 INFO  Day1:55 - Clicking to mobile
+2022-10-05 10:10:464 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-05 10:10:299 INFO  TestBase:58 - Initialize Web driver: 726843606
+2022-10-05 10:10:301 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:302 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 10:10:310 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 10:10:312 INFO  WaitHelper:78 - page is loaded
+2022-10-05 10:10:469 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-05 10:10:552 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:568 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (63a3e8d5571e1049052c669b08752510)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:608 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:614 INFO  VerificationHelper:74 - page title is: Home page
+2022-10-05 10:10:879 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-05 10:10:234 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-05 10:10:753 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:763 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (63a3e8d5571e1049052c669b08752510)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:792 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:793 INFO  Day1:56 - Clicking to mobile
+2022-10-05 10:10:307 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-05 10:10:639 INFO  TestBase:58 - Initialize Web driver: 925803196
+2022-10-05 10:10:642 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:642 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 10:10:655 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 10:10:657 INFO  WaitHelper:78 - page is loaded
+2022-10-05 10:10:800 INFO  TestBase:54 - *************checkTitle Strated ****************
+2022-10-05 10:10:934 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:947 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (ccfd7590f4604dce1ea1f95c71c83693)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:989 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:36 INFO  TestBase:141 - **************checkTitleFinished***************
+2022-10-05 10:10:264 INFO  TestBase:54 - *************clickToMobile Strated ****************
+2022-10-05 10:10:731 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 10:10:739 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (ccfd7590f4604dce1ea1f95c71c83693)] -> css selector: h2] for :100 seconds
+2022-10-05 10:10:764 INFO  WaitHelper:91 - element is visible now
+2022-10-05 10:10:764 INFO  Day1:54 - Clicking to mobile
+2022-10-05 10:10:861 INFO  TestBase:141 - **************clickToMobileFinished***************
+2022-10-05 11:10:329 INFO  TestBase:58 - Initialize Web driver: 925803196
+2022-10-05 11:10:331 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 11:10:332 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 11:10:343 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 11:10:346 INFO  WaitHelper:78 - page is loaded
+2022-10-05 11:10:501 INFO  TestBase:54 - *************testLoginToApplication Strated ****************
+2022-10-05 11:10:723 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 12:10:783 INFO  WaitHelper:88 - waiting for :Proxy element for: DefaultElementLocator 'By.name: uid' for :100 seconds
+2022-10-05 12:10:70 INFO  TestBase:141 - **************testLoginToApplicationFinished***************
+2022-10-05 12:10:190 INFO  TestBase:58 - Initialize Web driver: 726843606
+2022-10-05 12:10:193 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 12:10:194 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-05 12:10:219 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-05 12:10:222 INFO  WaitHelper:78 - page is loaded
+2022-10-05 12:10:367 INFO  TestBase:54 - *************testLoginToApplication Strated ****************
+2022-10-05 12:10:490 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-05 12:10:503 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (9646adf47c3e6248fd28936e5bf333b4)] -> name: uid] for :100 seconds
+2022-10-05 12:10:552 INFO  WaitHelper:91 - element is visible now
+2022-10-05 12:10:552 INFO  Day1:38 - entering uid...mngr444993
+2022-10-05 12:10:662 INFO  Day1:43 - Entering password....UbysAmy
+2022-10-05 12:10:751 INFO  Day1:49 - Clicking on button login....
+2022-10-05 12:10:546 INFO  TestBase:141 - **************testLoginToApplicationFinished***************

@@ -4,6 +4,7 @@ import Help.Wait.WaitHelper;
 import Help.browserConfiguration.BrowserType;
 import Help.browserConfiguration.configReader.ObjectReader;
 import Help.browserConfiguration.configReader.PropertyReader;
+import Help.excel.ExcelHelper;
 import Help.javaScript.JavaScriptHelper;
 import Help.logger.LoggerHelper;
 import Help.resource.ResourceHelper;
@@ -141,6 +142,15 @@ public class TestBase {
         log.info("**************"+result.getName()+"Finished***************");
         extent.flush();
     }
+
+    public Object[][] getExcelData(String excelName, String sheetName){
+        String excelLocation = ResourceHelper.getResourcePath("src/main/resources/configfile/")+excelName;
+        log.info("excel location "+excelLocation);
+        ExcelHelper excelHelper = new ExcelHelper();
+        Object[][] data = excelHelper.getExcelData(excelLocation, sheetName);
+        return data;
+    }
+
     @AfterTest
     public void afterTest(){
         if(driver != null){

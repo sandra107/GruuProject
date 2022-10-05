@@ -11,7 +11,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import testBase.TestBase;
 
-public class Day2 {
+public class Day3 {
     private WebDriver driver;
     private final Logger log = LoggerHelper.getLogger(Day1.class);
     WaitHelper waitHelper;
@@ -25,7 +25,7 @@ public class Day2 {
     @FindBy(name = "btnLogin")
     WebElement btnLogin;
 
-    public Day2(WebDriver driver){
+    public Day3(WebDriver driver){
         this.driver = driver;
         //Khởi tạo phần tử bằng initElements() -> Khởi tạo các phần tử web mà chúng định vị bằng sd @FindBy
         PageFactory.initElements(driver, this);

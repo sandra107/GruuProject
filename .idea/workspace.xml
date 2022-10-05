@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40600fce-fe04-410a-8be5-28c6a72c96ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testScript/Script2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Help/excel/ExcelHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Day3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testScript/Script3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.out" beforeDir="false" afterPath="$PROJECT_DIR$/automation.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Help/browserConfiguration/configReader/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Help/browserConfiguration/configReader/PropertyReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Day1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testScript/Script1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testScript/Script1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Day2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testBase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testBase/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testScript/Script2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testScript/Script2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/configfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/configfile/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/reports/extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/reports/extent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Help/browserConfiguration/configReader/PropertyReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Help/browserConfiguration/configReader/PropertyReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/configfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/configfile/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/Day1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Day1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testScript/Script1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testScript/Script1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,29 +39,35 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FdBlyJkwTbwv42EtqAquMG9Eye" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="utils" />
-      <recent name="testBase" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\GruuProject\src\main\resources" />
       <recent name="D:\Project\GruuProject\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Help.excel" />
+      <recent name="utils" />
+      <recent name="testBase" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.Script2">
     <configuration name="Script1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GruuProject" />
       <extension name="coverage">
@@ -76,8 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Script2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GruuProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testScript" />
+      <option name="MAIN_CLASS_NAME" value="testScript.Script2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Script2" />
         <item itemvalue="TestNG.Script1" />
       </list>
     </recent_temporary>
@@ -94,12 +121,25 @@
       <option name="presentableId" value="Default" />
       <updated>1664812235917</updated>
       <workItem from="1664812243237" duration="4336000" />
-      <workItem from="1664845764602" duration="4126000" />
+      <workItem from="1664845764602" duration="5104000" />
+      <workItem from="1664932478238" duration="7279000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -111,5 +151,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

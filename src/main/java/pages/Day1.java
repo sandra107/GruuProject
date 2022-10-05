@@ -44,6 +44,7 @@ public class Day1 {
     public boolean checkTitle(){
         if(title.getAttribute("title").isEmpty()){
             String msg = "THIS IS DEMO SITE FOR   ";
+            System.out.println(title.getAttribute("title"));
             return true;
         }
         return false;

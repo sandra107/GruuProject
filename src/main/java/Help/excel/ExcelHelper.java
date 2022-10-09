@@ -2,75 +2,78 @@ package Help.excel;
 
 import Help.logger.LoggerHelper;
 import org.apache.log4j.Logger;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.*;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import java.io.File;
-import java.io.FileInputStream;
+import java.io.*;
+import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 
 public class ExcelHelper {
     private Logger log = LoggerHelper.getLogger(ExcelHelper.class);
-    public Object[][] getExcelData(String excelLocation, String sheetName) {
+    private static XSSFSheet excelSheet;
+    private static XSSFWorkbook ExcelWBook;
+    private static XSSFCell Cell;
+    private static XSSFRow Row;
+
+    public Object[][] getTableArray(String FilePath, String SheetName) throws Exception {
+        Object[][] tabArray = null;
         try {
-            Object dataSets[][] = null;
-            FileInputStream file = new FileInputStream(new File(excelLocation));
-            // Create Workbook instance
-            XSSFWorkbook workbook = new XSSFWorkbook(file);
+            FileInputStream ExcelFile = new FileInputStream(new File(FilePath));
+            // Create workbook instance
+            ExcelWBook = new XSSFWorkbook(ExcelFile);
+            //Get sheet name form workbook
+            excelSheet = ExcelWBook.getSheet(SheetName);
+            // Find number of rows in excel file
+            System.out.println("First Row Number/index:"+ excelSheet.getFirstRowNum() + " *** Last Row Number/index:"
+                    + excelSheet.getLastRowNum());
 
-            // Get sheet Name from Workbook
-            XSSFSheet sheet = workbook.getSheet(sheetName);
+            int rows = excelSheet.getLastRowNum();
 
-            // count number of active rows in excel sheet
-            int totalRow = sheet.getLastRowNum();
-            System.out.println(totalRow);
 
-            // count active columns in row
-            int totalColumn = sheet.getRow(0).getLastCellNum();
-
-            dataSets = new Object[totalRow][totalColumn - 1];
-
-            // Iterate Through each Rows one by one.
-            Iterator<Row> rowIterator = sheet.iterator();
-            int i = 0;
-            while (rowIterator.hasNext()) {
-                i++;
-                // for Every row , we need to iterator over columns
-                Row row = rowIterator.next();
-                Iterator<Cell> cellIterator = row.cellIterator();
-                int j = 0;
-                while (cellIterator.hasNext()) {
-
-                    Cell cell = cellIterator.next();
-                    if (cell.getStringCellValue().contains("Start")) {
-                        i = 0;
-                        break;
-                    }
-                    switch (cell.getCellTypeEnum()) {
-                        case STRING:
-                            dataSets[i - 1][j++] = cell.getStringCellValue();
-                            break;
-                        case NUMERIC:
-                            dataSets[i - 1][j++] = cell.getNumericCellValue();
-                            break;
-                        case BOOLEAN:
-                            dataSets[i - 1][j++] = cell.getBooleanCellValue();
-                        case FORMULA:
-                            dataSets[i - 1][j++] = cell.getCellFormula();
-                            break;
-
-                        default:
-                            System.out.println("no matching enum date type found");
-                            break;
-                    }
-                }
-            }
-            return dataSets;
-        } catch (Exception e) {
+//            int startRow = 1;
+//            int startCol = 1;
+//            int ci, cj;
+//            int totalRows = ExcelWSheet.getLastRowNum();
+//            // you can write a function as well to get Column count
+//            int totalCols = 2;
+//            tabArray = new String[totalRows][totalCols];
+//            ci = 0;
+//            for (int i = startRow; i <= totalRows; i++, ci++) {
+//                cj = 0;
+//                for (int j = startCol; j <= totalCols; j++, cj++) {
+//                    tabArray[ci][cj] = getCellData(i, j);
+//                    System.out.println(tabArray[ci][cj]);
+//                }
+//            }
+        } catch (FileNotFoundException e) {
+            System.out.println("Could not read the Excel sheet");
+            e.printStackTrace();
+        } catch (IOException e) {
+            System.out.println("Could not read the Excel sheet");
             e.printStackTrace();
         }
-        return null;
+        return (tabArray);
     }
+
+    public static String getCellData(int RowNum, int ColNum) throws Exception {
+        try {
+            Cell = excelSheet.getRow(RowNum).getCell(ColNum);
+            int dataType = Cell.getCellType();
+            if (dataType == 3) {
+                return "";
+            } else {
+                String CellData = Cell.getStringCellValue();
+                return CellData;
+            }
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            throw (e);
+        }
+    }
+
 }

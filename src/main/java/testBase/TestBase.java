@@ -143,11 +143,11 @@ public class TestBase {
         extent.flush();
     }
 
-    public Object[][] getExcelData(String excelName, String sheetName){
+    public Object[][] getExcelData(String excelName, String sheetName) throws Exception {
         String excelLocation = ResourceHelper.getResourcePath("src/main/resources/configfile/")+excelName;
         log.info("excel location "+excelLocation);
         ExcelHelper excelHelper = new ExcelHelper();
-        Object[][] data = excelHelper.getExcelData(excelLocation, sheetName);
+        Object[][] data = excelHelper.getTableArray(excelName, sheetName);
         return data;
     }
 

@@ -5,16 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40600fce-fe04-410a-8be5-28c6a72c96ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/configfile/testData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Help/alert/AlertHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/configfile/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/screenShots/loginToApplication_10_10_2022_03_23_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/screenShots/loginToApplication_10_10_2022_03_26_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/screenShots/loginToApplication_10_10_2022_03_27_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/screenShots/loginToApplication_10_10_2022_03_28_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/screenShots/loginToApplication_10_10_2022_03_28_29.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.out" beforeDir="false" afterPath="$PROJECT_DIR$/automation.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Help/excel/ExcelHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Help/excel/ExcelHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Help/resource/ResourceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Help/resource/ResourceHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Day3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/testBase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testBase/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testScript/Script1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testScript/Script1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/testScript/Script3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testScript/Script3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/configfile/testData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/configfile/testData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/reports/extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/reports/extent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GruuProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/GruuProject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Help/excel/ExcelHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Help/excel/ExcelHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Help/resource/ResourceHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Help/resource/ResourceHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/configfile/testData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/configfile/testData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Day3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Day3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/reports/extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reports/extent.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/testBase/TestBase$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testBase/TestBase$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/testBase/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testBase/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testScript/Script2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testScript/Script2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testScript/Script1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testScript/Script1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testScript/Script3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testScript/Script3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hrm-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -58,12 +81,20 @@
       <recent name="D:\Project\GruuProject\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Help.alert" />
       <recent name="Help.excel" />
       <recent name="utils" />
       <recent name="testBase" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.Script3">
+    <configuration name="DataProviderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataProviderTest" />
+      <module name="GruuProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Script1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GruuProject" />
       <extension name="coverage">
@@ -115,9 +146,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Script3.loginToApplication" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GruuProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testScript" />
+      <option name="MAIN_CLASS_NAME" value="testScript.Script3" />
+      <option name="METHOD_NAME" value="loginToApplication" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Script3" />
+        <item itemvalue="Application.DataProviderTest" />
+        <item itemvalue="TestNG.Script3.loginToApplication" />
         <item itemvalue="TestNG.Script2" />
         <item itemvalue="TestNG.Script1" />
       </list>
@@ -139,7 +190,9 @@
       <workItem from="1664932478238" duration="7279000" />
       <workItem from="1664967220589" duration="33000" />
       <workItem from="1665018850781" duration="12132000" />
-      <workItem from="1665107760498" duration="6383000" />
+      <workItem from="1665107760498" duration="7432000" />
+      <workItem from="1665364039096" duration="11835000" />
+      <workItem from="1665389109626" duration="6530000" />
     </task>
     <servers />
   </component>
@@ -171,16 +224,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Help/excel/ExcelHelper.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

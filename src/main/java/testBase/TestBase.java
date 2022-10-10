@@ -23,6 +23,7 @@ import org.testng.Reporter;
 import org.testng.annotations.*;
 import utils.ExtentManager;
 
+import javax.jws.Oneway;
 import java.io.File;
 import java.io.IOException;
 import java.lang.reflect.Method;
@@ -45,7 +46,7 @@ public class TestBase {
     @BeforeTest
     public void beforeTest() throws Exception{
         ObjectReader.reader = new PropertyReader();
-        reportDirectery = new File(ResourceHelper.getResourcePath("src/main/resources/screenShots"));
+        reportDirectery = new File(ResourceHelper.getResourcePath("src\\main\\resources\\screenShots"));
         setUpDriver(ObjectReader.reader .getBrowserType());
         test = extent.createTest(getClass().getSimpleName());
     }
@@ -97,7 +98,7 @@ public class TestBase {
         SimpleDateFormat formater = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
         File screFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         try {
-            destFile = new File(reportDirectery+"/"+fileName+"_"+formater.format(calendar.getTime())+".png");
+            destFile = new File(reportDirectery+"\\"+fileName+"_"+formater.format(calendar.getTime())+".png");
             Files.copy(screFile.toPath(), destFile.toPath());
             Reporter.log("<a href='"+destFile.getAbsolutePath()+"'><img src='"+destFile.getAbsolutePath()+"'height='100' width='100'/></a>");
         } catch (IOException e) {
@@ -143,11 +144,11 @@ public class TestBase {
         extent.flush();
     }
 
-    public Object[][] getExcelData(String excelName, String sheetName) throws Exception {
-        String excelLocation = ResourceHelper.getResourcePath("src/main/resources/configfile/")+excelName;
+    public Object[][] getExcelData( String excelName, String sheetName){
+        String excelLocation = ResourceHelper.getResourcePath("src\\main\\resources\\configfile\\") + excelName;
         log.info("excel location "+excelLocation);
         ExcelHelper excelHelper = new ExcelHelper();
-        Object[][] data = excelHelper.getTableArray(excelLocation, sheetName);
+        Object[][] data = excelHelper.getTableArray( excelLocation, sheetName);
         return data;
     }
 

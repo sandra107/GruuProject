@@ -239,3 +239,98 @@
 2022-10-07 11:10:536 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
 2022-10-07 11:10:538 INFO  WaitHelper:78 - page is loaded
 2022-10-07 11:10:675 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-09 10:10:243 INFO  TestBase:59 - Initialize Web driver: 581364120
+2022-10-09 10:10:250 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-09 10:10:255 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-09 10:10:282 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-09 10:10:292 INFO  WaitHelper:78 - page is loaded
+2022-10-09 10:10:496 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-09 10:10:427 INFO  TestBase:59 - Initialize Web driver: 560858993
+2022-10-09 10:10:435 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-09 10:10:436 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-09 10:10:458 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-09 10:10:467 INFO  WaitHelper:78 - page is loaded
+2022-10-09 10:10:625 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 00:10:882 INFO  TestBase:59 - Initialize Web driver: 1859216983
+2022-10-10 00:10:896 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 00:10:897 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 00:10:931 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 00:10:942 INFO  WaitHelper:78 - page is loaded
+2022-10-10 00:10:152 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 00:10:857 INFO  TestBase:59 - Initialize Web driver: 339933064
+2022-10-10 00:10:876 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 00:10:878 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 00:10:909 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 00:10:939 INFO  WaitHelper:78 - page is loaded
+2022-10-10 00:10:159 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 00:10:754 INFO  TestBase:59 - Initialize Web driver: 1108367077
+2022-10-10 00:10:768 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 00:10:770 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 00:10:800 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 00:10:817 INFO  WaitHelper:78 - page is loaded
+2022-10-10 00:10:78 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/D:\Project\GruuProject\src\main\resources\configfile\testData.xlsx
+2022-10-10 00:10:982 INFO  TestBase:59 - Initialize Web driver: 339933064
+2022-10-10 00:10:991 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 00:10:991 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 00:10:18 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 00:10:26 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:144 INFO  TestBase:59 - Initialize Web driver: 261429887
+2022-10-10 01:10:161 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:164 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:223 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:232 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:617 INFO  TestBase:148 - excel location D:\Project\GruuProject/D:\Project\GruuProject\src\main\resources\configfile\testData.xlsx
+2022-10-10 01:10:305 INFO  TestBase:59 - Initialize Web driver: 2013332834
+2022-10-10 01:10:312 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:313 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:470 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:476 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:716 INFO  TestBase:148 - excel location D:\Project\GruuProject/src\main\resources\configfile\testData.xlsx
+2022-10-10 01:10:397 INFO  TestBase:59 - Initialize Web driver: 540092563
+2022-10-10 01:10:406 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:406 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:429 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:434 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:734 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 01:10:138 INFO  TestBase:59 - Initialize Web driver: 540092563
+2022-10-10 01:10:146 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:147 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:201 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:213 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:461 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 01:10:860 INFO  TestBase:59 - Initialize Web driver: 1673604690
+2022-10-10 01:10:869 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:870 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:897 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:904 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:122 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 01:10:197 INFO  TestBase:59 - Initialize Web driver: 1673604690
+2022-10-10 01:10:204 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:204 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:223 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:228 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:607 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 01:10:970 INFO  TestBase:59 - Initialize Web driver: 1318475957
+2022-10-10 01:10:977 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:977 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:01 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:12 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:349 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 01:10:440 INFO  TestBase:59 - Initialize Web driver: 557725225
+2022-10-10 01:10:494 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:503 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:555 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:585 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:953 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 01:10:903 INFO  TestBase:59 - Initialize Web driver: 540092563
+2022-10-10 01:10:931 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:932 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:984 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:999 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:200 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx
+2022-10-10 01:10:302 INFO  TestBase:59 - Initialize Web driver: 1318475957
+2022-10-10 01:10:309 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 01:10:309 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 01:10:328 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 01:10:334 INFO  WaitHelper:78 - page is loaded
+2022-10-10 01:10:540 INFO  TestBase:148 - excel location D:\Project\GruuProject/src/main/resources/configfile/testData.xlsx

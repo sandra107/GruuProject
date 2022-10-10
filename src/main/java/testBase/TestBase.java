@@ -147,7 +147,7 @@ public class TestBase {
         String excelLocation = ResourceHelper.getResourcePath("src/main/resources/configfile/")+excelName;
         log.info("excel location "+excelLocation);
         ExcelHelper excelHelper = new ExcelHelper();
-        Object[][] data = excelHelper.getTableArray(excelName, sheetName);
+        Object[][] data = excelHelper.getTableArray(excelLocation, sheetName);
         return data;
     }
 

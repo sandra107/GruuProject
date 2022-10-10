@@ -32,8 +32,17 @@ public class ExcelHelper {
             System.out.println("First Row Number/index:"+ excelSheet.getFirstRowNum() + " *** Last Row Number/index:"
                     + excelSheet.getLastRowNum());
 
-            int rows = excelSheet.getLastRowNum();
-
+            int rowCount = excelSheet.getLastRowNum() - excelSheet.getFirstRowNum()+1;
+            int colCount = excelSheet.getRow(0).getLastCellNum();
+            System.out.println("Row Count is: " + rowCount
+                    + " *** Column count is: " + colCount);
+            Object[][] data = new Object[rowCount][colCount];
+            for (int i = 0; i < rowCount; i++) {
+                for (int j = 0; j < colCount; j++) {
+                    // Call 'getStringCellValue()' here instead of using just 'getCell()'
+                    data[i][j] = excelSheet.getRow(1).getCell(j).getStringCellValue().trim();
+                }
+            }
 
 //            int startRow = 1;
 //            int startCol = 1;

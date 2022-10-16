@@ -1,0 +1,128 @@
+2022-10-10 20:10:168 INFO  TestBase:60 - Initialize Web driver: 917277283
+2022-10-10 20:10:178 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 20:10:179 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 20:10:210 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 20:10:216 INFO  WaitHelper:78 - page is loaded
+2022-10-10 20:10:800 INFO  TestBase:149 - excel location D:\Project\GruuProject\src\main\resources\configfile\testData.xlsx
+2022-10-10 20:10:140 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-10 20:10:623 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 20:10:689 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (203c9c7dec6aae229e864de86142dd66)] -> name: uid] for :100 seconds
+2022-10-10 20:10:645 INFO  WaitHelper:91 - element is visible now
+2022-10-10 20:10:646 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
+2022-10-10 20:10:647 INFO  Day3:42 - entering uid...mngr444993
+2022-10-10 20:10:195 INFO  Day3:47 - Entering password....UbysAmz
+2022-10-10 20:10:388 INFO  Day3:53 - Clicking on button login....
+2022-10-10 20:10:865 INFO  AlertHelper:16 - AlertHelper object is craeted..
+2022-10-10 20:10:886 INFO  AlertHelper:20 - alert test: User or Password is not valid
+2022-10-10 20:10:918 INFO  AlertHelper:20 - alert test: User or Password is not valid
+2022-10-10 20:10:932 INFO  AlertHelper:36 - alert text: User or Password is not valid
+2022-10-10 20:10:942 INFO  AlertHelper:20 - alert test: User or Password is not valid
+2022-10-10 20:10:301 INFO  AlertHelper:26 - accept Alert is done...
+2022-10-10 20:10:571 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:991 INFO  TestBase:60 - Initialize Web driver: 861522296
+2022-10-16 16:10:997 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:998 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:15 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:23 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:197 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 16:10:823 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:824 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 16:10:72 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 16:10:267 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 16:10:338 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:246 INFO  TestBase:60 - Initialize Web driver: 1318475957
+2022-10-16 16:10:254 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:254 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:271 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:276 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:472 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:976 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:977 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 16:10:31 INFO  TestBase:60 - Initialize Web driver: 712732521
+2022-10-16 16:10:48 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:49 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:74 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:81 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:363 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:376 INFO  TestBase:89 - driver is null
+2022-10-16 16:10:379 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 16:10:826 INFO  TestBase:56 - *************clickToForgotPass Strated ****************
+2022-10-16 16:10:801 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:801 INFO  LoginOrangeHRM:72 - Clicking on forgot password....
+2022-10-16 16:10:917 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:919 INFO  TestBase:143 - **************clickToForgotPassFinished***************
+2022-10-16 16:10:17 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 16:10:642 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:646 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 16:10:850 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 16:10:978 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 16:10:64 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:55 INFO  TestBase:60 - Initialize Web driver: 540092563
+2022-10-16 16:10:71 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:72 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:111 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:119 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:370 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:411 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:411 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 16:10:424 INFO  TestBase:89 - driver is null
+2022-10-16 16:10:428 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 16:10:967 INFO  TestBase:56 - *************clickToForgotPass Strated ****************
+2022-10-16 16:10:519 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:520 INFO  LoginOrangeHRM:72 - Clicking on forgot password....
+2022-10-16 16:10:911 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:912 INFO  TestBase:143 - **************clickToForgotPassFinished***************
+2022-10-16 16:10:02 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 16:10:651 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:652 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 16:10:750 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 16:10:854 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 16:10:921 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:594 INFO  TestBase:60 - Initialize Web driver: 650410100
+2022-10-16 16:10:605 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:606 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:664 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:704 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:912 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:966 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:855 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 16:10:234 INFO  TestBase:60 - Initialize Web driver: 1594065480
+2022-10-16 16:10:249 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:249 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:286 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:307 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:717 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:811 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:652 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 17:10:798 INFO  TestBase:89 - driver is null
+2022-10-16 17:10:805 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 17:10:395 INFO  TestBase:60 - Initialize Web driver: 712732521
+2022-10-16 17:10:422 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:422 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 17:10:440 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 17:10:448 INFO  WaitHelper:78 - page is loaded
+2022-10-16 17:10:672 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 17:10:712 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:713 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 17:10:728 INFO  TestBase:89 - driver is null
+2022-10-16 17:10:731 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 17:10:223 INFO  TestBase:56 - *************clickToForgotPass Strated ****************
+2022-10-16 17:10:708 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:708 INFO  LoginOrangeHRM:72 - Clicking on forgot password....
+2022-10-16 17:10:707 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:708 INFO  TestBase:143 - **************clickToForgotPassFinished***************
+2022-10-16 17:10:776 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 17:10:339 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:340 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 17:10:448 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 17:10:557 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 17:10:627 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 17:10:461 INFO  TestBase:60 - Initialize Web driver: 557725225
+2022-10-16 17:10:470 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:470 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 17:10:488 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 17:10:494 INFO  WaitHelper:78 - page is loaded
+2022-10-16 17:10:672 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 17:10:715 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:715 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 17:10:112 INFO  TestBase:143 - **************clickToCancelFinished***************

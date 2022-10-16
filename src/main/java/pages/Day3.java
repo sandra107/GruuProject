@@ -60,11 +60,11 @@ public class Day3 {
         alertHelper.getAlert();
         String alt = alertHelper.getAlertText();
         alertHelper.acceptAlert();
-        if(alt.equals(Util.EXPECT_ERROR_LOGIN)){
-            System.out.println("ahihi, tao nè!!!");
-        }else {
-            System.out.println("lại là tao đây, nhưng mày sai rồi");
-        }
+//        if(alt.equals(Util.EXPECT_ERROR_LOGIN)){
+//            System.out.println("ahihi, tao nè!!!");
+//        }else {
+//            System.out.println("lại là tao đây, nhưng mày sai rồi");
+//        }
         return true;
     }
 

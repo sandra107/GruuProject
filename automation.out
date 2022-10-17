@@ -1,828 +1,128 @@
-2022-10-03 23:10:773 INFO  TestBase:58 - Initialize Web driver: 1933077874
-2022-10-03 23:10:781 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-03 23:10:782 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-03 23:10:802 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-03 23:10:807 INFO  WaitHelper:78 - page is loaded
-2022-10-03 23:10:112 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-03 23:10:586 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-03 23:10:631 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-03 23:10:821 INFO  Day1:46 - Clicking to mobile
-2022-10-03 23:10:247 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-03 23:10:274 INFO  TestBase:58 - Initialize Web driver: 1318475957
-2022-10-03 23:10:282 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-03 23:10:283 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-03 23:10:312 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-03 23:10:323 INFO  WaitHelper:78 - page is loaded
-2022-10-03 23:10:572 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-03 23:10:529 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-03 23:10:467 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-03 23:10:168 INFO  Day1:47 - Clicking to mobile
-2022-10-03 23:10:638 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-03 23:10:930 INFO  TestBase:58 - Initialize Web driver: 557725225
-2022-10-03 23:10:936 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-03 23:10:937 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-03 23:10:955 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-03 23:10:960 INFO  WaitHelper:78 - page is loaded
-2022-10-03 23:10:205 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-03 23:10:360 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-03 23:10:580 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-03 23:10:605 INFO  Day1:48 - Clicking to mobile
-2022-10-03 23:10:59 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-04 09:10:699 INFO  TestBase:58 - Initialize Web driver: 917935693
-2022-10-04 09:10:702 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:702 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-04 09:10:718 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-04 09:10:724 INFO  WaitHelper:78 - page is loaded
-2022-10-04 09:10:867 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-04 09:10:446 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-04 09:10:740 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-04 09:10:447 INFO  Day1:52 - Clicking to mobile
-2022-10-04 09:10:772 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-04 09:10:756 INFO  TestBase:58 - Initialize Web driver: 749362556
-2022-10-04 09:10:765 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:765 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-04 09:10:781 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-04 09:10:784 INFO  WaitHelper:78 - page is loaded
-2022-10-04 09:10:950 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-04 09:10:874 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:886 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (28f26a88fdd54195ac4b5ed57afa131e)] -> css selector: h2] for :100 seconds
-2022-10-04 09:10:932 INFO  WaitHelper:91 - element is visible now
-2022-10-04 09:10:956 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-04 09:10:202 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-04 09:10:652 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:662 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (28f26a88fdd54195ac4b5ed57afa131e)] -> css selector: h2] for :100 seconds
-2022-10-04 09:10:687 INFO  WaitHelper:91 - element is visible now
-2022-10-04 09:10:688 INFO  Day1:53 - Clicking to mobile
-2022-10-04 09:10:528 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-04 09:10:315 INFO  TestBase:58 - Initialize Web driver: 726843606
-2022-10-04 09:10:318 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:318 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-04 09:10:330 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-04 09:10:333 INFO  WaitHelper:78 - page is loaded
-2022-10-04 09:10:478 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-04 09:10:241 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:254 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (19b355764218f493570d033728138ff4)] -> css selector: h2] for :100 seconds
-2022-10-04 09:10:292 INFO  WaitHelper:91 - element is visible now
-2022-10-04 09:10:318 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-04 09:10:540 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-04 09:10:48 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:60 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (19b355764218f493570d033728138ff4)] -> css selector: h2] for :100 seconds
-2022-10-04 09:10:88 INFO  WaitHelper:91 - element is visible now
-2022-10-04 09:10:89 INFO  Day1:53 - Clicking to mobile
-2022-10-04 09:10:262 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-04 09:10:841 INFO  TestBase:58 - Initialize Web driver: 925803196
-2022-10-04 09:10:844 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:846 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-04 09:10:866 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-04 09:10:876 INFO  WaitHelper:78 - page is loaded
-2022-10-04 09:10:41 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-04 09:10:852 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:868 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (31bdfbdce15416693364ceb08f3eada8)] -> css selector: h2] for :100 seconds
-2022-10-04 09:10:906 INFO  WaitHelper:91 - element is visible now
-2022-10-04 09:10:932 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-04 09:10:145 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-04 09:10:614 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-04 09:10:625 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (31bdfbdce15416693364ceb08f3eada8)] -> css selector: h2] for :100 seconds
-2022-10-04 09:10:648 INFO  WaitHelper:91 - element is visible now
-2022-10-04 09:10:648 INFO  Day1:53 - Clicking to mobile
-2022-10-04 09:10:592 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-05 10:10:520 INFO  TestBase:58 - Initialize Web driver: 424732838
-2022-10-05 10:10:522 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:522 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 10:10:533 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 10:10:537 INFO  WaitHelper:78 - page is loaded
-2022-10-05 10:10:683 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-05 10:10:406 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:424 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (66af0f356a51a18889ebae2827f8a109)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:473 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:478 INFO  VerificationHelper:74 - page title is: Guru99 Bank Home Page
-2022-10-05 10:10:650 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-05 10:10:10 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-05 10:10:86 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:95 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (66af0f356a51a18889ebae2827f8a109)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:122 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:122 INFO  Day1:55 - Clicking to mobile
-2022-10-05 10:10:655 INFO  TestBase:58 - Initialize Web driver: 726843606
-2022-10-05 10:10:658 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:659 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 10:10:670 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 10:10:674 INFO  WaitHelper:78 - page is loaded
-2022-10-05 10:10:865 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-05 10:10:438 INFO  TestBase:58 - Initialize Web driver: 726843606
-2022-10-05 10:10:441 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:441 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 10:10:450 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 10:10:452 INFO  WaitHelper:78 - page is loaded
-2022-10-05 10:10:593 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-05 10:10:593 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:608 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (2c06bd6128f8359b63d85a824155d9e6)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:646 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:651 INFO  VerificationHelper:74 - page title is: Home page
-2022-10-05 10:10:838 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-05 10:10:157 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-05 10:10:743 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:750 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (2c06bd6128f8359b63d85a824155d9e6)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:776 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:776 INFO  Day1:55 - Clicking to mobile
-2022-10-05 10:10:748 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-05 10:10:547 INFO  TestBase:58 - Initialize Web driver: 925803196
-2022-10-05 10:10:551 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:552 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 10:10:566 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 10:10:571 INFO  WaitHelper:78 - page is loaded
-2022-10-05 10:10:732 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-05 10:10:566 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:579 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (cd0cac7583d96dd6e67136c32565d23e)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:622 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:629 INFO  VerificationHelper:74 - page title is: Home page
-2022-10-05 10:10:871 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-05 10:10:199 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-05 10:10:732 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:741 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (cd0cac7583d96dd6e67136c32565d23e)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:791 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:791 INFO  Day1:55 - Clicking to mobile
-2022-10-05 10:10:464 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-05 10:10:299 INFO  TestBase:58 - Initialize Web driver: 726843606
-2022-10-05 10:10:301 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:302 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 10:10:310 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 10:10:312 INFO  WaitHelper:78 - page is loaded
-2022-10-05 10:10:469 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-05 10:10:552 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:568 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (63a3e8d5571e1049052c669b08752510)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:608 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:614 INFO  VerificationHelper:74 - page title is: Home page
-2022-10-05 10:10:879 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-05 10:10:234 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-05 10:10:753 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:763 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (63a3e8d5571e1049052c669b08752510)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:792 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:793 INFO  Day1:56 - Clicking to mobile
-2022-10-05 10:10:307 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-05 10:10:639 INFO  TestBase:58 - Initialize Web driver: 925803196
-2022-10-05 10:10:642 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:642 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 10:10:655 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 10:10:657 INFO  WaitHelper:78 - page is loaded
-2022-10-05 10:10:800 INFO  TestBase:54 - *************checkTitle Strated ****************
-2022-10-05 10:10:934 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:947 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (ccfd7590f4604dce1ea1f95c71c83693)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:989 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:36 INFO  TestBase:141 - **************checkTitleFinished***************
-2022-10-05 10:10:264 INFO  TestBase:54 - *************clickToMobile Strated ****************
-2022-10-05 10:10:731 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 10:10:739 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (ccfd7590f4604dce1ea1f95c71c83693)] -> css selector: h2] for :100 seconds
-2022-10-05 10:10:764 INFO  WaitHelper:91 - element is visible now
-2022-10-05 10:10:764 INFO  Day1:54 - Clicking to mobile
-2022-10-05 10:10:861 INFO  TestBase:141 - **************clickToMobileFinished***************
-2022-10-05 11:10:329 INFO  TestBase:58 - Initialize Web driver: 925803196
-2022-10-05 11:10:331 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 11:10:332 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 11:10:343 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 11:10:346 INFO  WaitHelper:78 - page is loaded
-2022-10-05 11:10:501 INFO  TestBase:54 - *************testLoginToApplication Strated ****************
-2022-10-05 11:10:723 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 12:10:783 INFO  WaitHelper:88 - waiting for :Proxy element for: DefaultElementLocator 'By.name: uid' for :100 seconds
-2022-10-05 12:10:70 INFO  TestBase:141 - **************testLoginToApplicationFinished***************
-2022-10-05 12:10:190 INFO  TestBase:58 - Initialize Web driver: 726843606
-2022-10-05 12:10:193 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 12:10:194 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-05 12:10:219 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-05 12:10:222 INFO  WaitHelper:78 - page is loaded
-2022-10-05 12:10:367 INFO  TestBase:54 - *************testLoginToApplication Strated ****************
-2022-10-05 12:10:490 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-05 12:10:503 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (9646adf47c3e6248fd28936e5bf333b4)] -> name: uid] for :100 seconds
-2022-10-05 12:10:552 INFO  WaitHelper:91 - element is visible now
-2022-10-05 12:10:552 INFO  Day1:38 - entering uid...mngr444993
-2022-10-05 12:10:662 INFO  Day1:43 - Entering password....UbysAmy
-2022-10-05 12:10:751 INFO  Day1:49 - Clicking on button login....
-2022-10-05 12:10:546 INFO  TestBase:141 - **************testLoginToApplicationFinished***************
-2022-10-06 08:10:315 INFO  TestBase:59 - Initialize Web driver: 2031927175
-2022-10-06 08:10:318 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-06 08:10:318 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-06 08:10:334 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-06 08:10:337 INFO  WaitHelper:78 - page is loaded
-2022-10-06 08:10:484 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlxs
-2022-10-06 09:10:767 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-06 09:10:779 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-06 09:10:779 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-06 09:10:791 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-06 09:10:794 INFO  WaitHelper:78 - page is loaded
-2022-10-06 09:10:932 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlxs
-2022-10-06 09:10:613 INFO  TestBase:59 - Initialize Web driver: 726843606
-2022-10-06 09:10:616 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-06 09:10:617 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-06 09:10:628 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-06 09:10:631 INFO  WaitHelper:78 - page is loaded
-2022-10-06 09:10:765 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-07 10:10:186 INFO  TestBase:59 - Initialize Web driver: 290096578
-2022-10-07 10:10:189 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-07 10:10:189 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-07 10:10:199 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-07 10:10:201 INFO  WaitHelper:78 - page is loaded
-2022-10-07 10:10:352 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-07 10:10:427 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-07 10:10:430 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-07 10:10:431 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-07 10:10:440 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-07 10:10:443 INFO  WaitHelper:78 - page is loaded
-2022-10-07 10:10:584 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-07 10:10:599 INFO  TestBase:59 - Initialize Web driver: 1058650291
-2022-10-07 10:10:603 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-07 10:10:603 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-07 10:10:612 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-07 10:10:615 INFO  WaitHelper:78 - page is loaded
-2022-10-07 10:10:801 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-07 11:10:514 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-07 11:10:519 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-07 11:10:519 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-07 11:10:536 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-07 11:10:538 INFO  WaitHelper:78 - page is loaded
-2022-10-07 11:10:675 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-07 11:10:500 INFO  TestBase:59 - Initialize Web driver: 1035363280
-2022-10-07 11:10:503 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-07 11:10:504 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-07 11:10:518 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-07 11:10:523 INFO  WaitHelper:78 - page is loaded
-2022-10-07 11:10:665 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-10 09:10:184 INFO  TestBase:59 - Initialize Web driver: 129924629
-2022-10-10 09:10:193 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 09:10:193 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 09:10:204 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 09:10:207 INFO  WaitHelper:78 - page is loaded
-2022-10-10 09:10:346 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-10 09:10:552 INFO  TestBase:59 - Initialize Web driver: 1945915791
-2022-10-10 09:10:557 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 09:10:557 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 09:10:567 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 09:10:569 INFO  WaitHelper:78 - page is loaded
-2022-10-10 09:10:726 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-10 10:10:341 INFO  TestBase:59 - Initialize Web driver: 1508130444
-2022-10-10 10:10:346 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 10:10:346 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 10:10:356 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 10:10:358 INFO  WaitHelper:78 - page is loaded
-2022-10-10 10:10:501 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-10 10:10:969 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-10 10:10:973 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 10:10:973 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 10:10:982 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 10:10:984 INFO  WaitHelper:78 - page is loaded
-2022-10-10 10:10:120 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx.xlsx
-2022-10-10 10:10:14 INFO  TestBase:59 - Initialize Web driver: 182052414
-2022-10-10 10:10:17 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 10:10:17 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 10:10:31 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 10:10:34 INFO  WaitHelper:78 - page is loaded
-2022-10-10 10:10:176 INFO  TestBase:148 - excel location D:\REST\GruuProject/testData.xlsx
-2022-10-10 10:10:678 INFO  TestBase:55 - *************loginToApplication Strated ****************
-2022-10-10 10:10:836 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 10:10:853 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (e601a0f49badb4d6b055105a911717bd)] -> name: uid] for :100 seconds
-2022-10-10 10:10:903 INFO  WaitHelper:91 - element is visible now
-2022-10-10 10:10:903 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 10:10:978 INFO  Day1:43 - Entering password....UbysAmz
-2022-10-10 10:10:49 INFO  Day1:49 - Clicking on button login....
-2022-10-10 10:10:647 INFO  TestBase:142 - **************loginToApplicationFinished***************
-2022-10-10 10:10:910 INFO  TestBase:55 - *************loginToApplication Strated ****************
-2022-10-10 10:10:630 INFO  TestBase:142 - **************loginToApplicationFinished***************
-2022-10-10 10:10:670 INFO  TestBase:55 - *************loginToApplication Strated ****************
-2022-10-10 10:10:814 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 10:10:825 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (e601a0f49badb4d6b055105a911717bd)] -> name: uid] for :100 seconds
-2022-10-10 10:10:850 INFO  WaitHelper:91 - element is visible now
-2022-10-10 10:10:850 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 10:10:54 INFO  Day1:43 - Entering password....UbysAmy
-2022-10-10 10:10:115 INFO  Day1:49 - Clicking on button login....
-2022-10-10 10:10:396 INFO  TestBase:142 - **************loginToApplicationFinished***************
-2022-10-10 10:10:380 INFO  TestBase:59 - Initialize Web driver: 1609038183
-2022-10-10 10:10:383 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 10:10:384 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 10:10:394 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 10:10:397 INFO  WaitHelper:78 - page is loaded
-2022-10-10 10:10:533 INFO  TestBase:148 - excel location D:\REST\GruuProject/testData.xlsx
-2022-10-10 10:10:86 INFO  TestBase:59 - Initialize Web driver: 1742235652
-2022-10-10 10:10:88 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 10:10:89 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 10:10:100 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 10:10:104 INFO  WaitHelper:78 - page is loaded
-2022-10-10 10:10:235 INFO  TestBase:148 - excel location D:\REST\GruuProject/testData.xlsx
-2022-10-10 11:10:868 INFO  TestBase:55 - *************loginToApplication Strated ****************
-2022-10-10 11:10:458 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-10 11:10:460 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:460 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:479 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:483 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:612 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-10 11:10:980 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-10 11:10:983 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:983 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:01 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:06 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:144 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/
-2022-10-10 11:10:750 INFO  TestBase:59 - Initialize Web driver: 49318987
-2022-10-10 11:10:754 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:754 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:764 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:767 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:905 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/
-2022-10-10 11:10:529 INFO  TestBase:59 - Initialize Web driver: 1945915791
-2022-10-10 11:10:532 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:533 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:543 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:545 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:679 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/
-2022-10-10 11:10:741 INFO  TestBase:59 - Initialize Web driver: 769986276
-2022-10-10 11:10:746 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:746 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:758 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:762 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:909 INFO  TestBase:148 - excel location D:\REST\GruuProject/
-2022-10-10 11:10:283 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-10 11:10:290 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:291 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:307 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:310 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:478 INFO  TestBase:148 - excel location D:\REST\GruuProject/
-2022-10-10 11:10:503 INFO  TestBase:59 - Initialize Web driver: 182052414
-2022-10-10 11:10:509 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:509 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:523 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:528 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:402 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-10 11:10:605 INFO  TestBase:59 - Initialize Web driver: 1583816224
-2022-10-10 11:10:609 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 11:10:609 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 11:10:621 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 11:10:625 INFO  WaitHelper:78 - page is loaded
-2022-10-10 11:10:766 INFO  TestBase:148 - excel location D:\REST\GruuProject/src/main/resources/configfile/testData.xlsx
-2022-10-10 14:10:582 INFO  TestBase:59 - Initialize Web driver: 1288135425
-2022-10-10 14:10:589 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:590 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:603 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:605 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:742 INFO  TestBase:148 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:301 INFO  TestBase:59 - Initialize Web driver: 1967617997
-2022-10-10 14:10:305 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:306 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:321 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:323 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:468 INFO  TestBase:148 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:591 INFO  TestBase:59 - Initialize Web driver: 49318987
-2022-10-10 14:10:594 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:594 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:603 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:610 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:750 INFO  TestBase:148 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:77 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 14:10:80 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:80 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:89 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:91 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:223 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:682 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 14:10:685 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:685 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:694 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:698 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:823 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:926 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 14:10:930 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:931 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:943 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:947 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:85 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:452 INFO  TestBase:60 - Initialize Web driver: 1058650291
-2022-10-10 14:10:457 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:457 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:467 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:470 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:608 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:835 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 14:10:842 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:843 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:859 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:863 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:04 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 14:10:851 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 14:10:854 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 14:10:855 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 14:10:863 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 14:10:865 INFO  WaitHelper:78 - page is loaded
-2022-10-10 14:10:10 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:283 INFO  TestBase:60 - Initialize Web driver: 1742235652
-2022-10-10 15:10:286 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:286 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:302 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:304 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:438 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:49 INFO  TestBase:60 - Initialize Web driver: 1035363280
-2022-10-10 15:10:53 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:53 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:66 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:68 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:201 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:837 INFO  TestBase:60 - Initialize Web driver: 769986276
-2022-10-10 15:10:843 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:843 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:861 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:864 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:01 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:724 INFO  TestBase:60 - Initialize Web driver: 1945915791
-2022-10-10 15:10:727 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:727 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:737 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:741 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:872 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:270 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:561 INFO  TestBase:60 - Initialize Web driver: 769986276
-2022-10-10 15:10:564 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:565 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:578 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:581 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:712 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:791 INFO  TestBase:60 - Initialize Web driver: 182052414
-2022-10-10 15:10:795 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:795 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:808 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:814 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:960 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:576 INFO  TestBase:60 - Initialize Web driver: 182052414
-2022-10-10 15:10:580 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:580 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:590 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:593 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:726 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:390 INFO  TestBase:60 - Initialize Web driver: 182052414
-2022-10-10 15:10:393 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:393 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:413 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:417 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:555 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:354 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 15:10:356 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:357 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:370 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:373 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:515 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:751 INFO  TestBase:60 - Initialize Web driver: 1742235652
-2022-10-10 15:10:754 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:754 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:768 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:770 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:794 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:695 INFO  TestBase:60 - Initialize Web driver: 182052414
-2022-10-10 15:10:698 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:699 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:708 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:711 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:246 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:821 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 15:10:825 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:825 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:835 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:837 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:991 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:640 INFO  TestBase:60 - Initialize Web driver: 769986276
-2022-10-10 15:10:643 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:643 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:658 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:661 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:806 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:428 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 15:10:431 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:432 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:440 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:443 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:573 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:998 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:344 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:364 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (415a79e2fdeac89793ee3d4942e685b5)] -> name: uid] for :100 seconds
-2022-10-10 15:10:408 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:409 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:479 INFO  Day1:43 - Entering password....UbysAmz
-2022-10-10 15:10:545 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:386 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:632 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:472 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:521 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:609 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:619 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (415a79e2fdeac89793ee3d4942e685b5)] -> name: uid] for :100 seconds
-2022-10-10 15:10:641 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:641 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:901 INFO  Day1:43 - Entering password....UbysAmy
-2022-10-10 15:10:998 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:757 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:987 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 15:10:990 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:990 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:999 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:02 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:155 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:564 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:783 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:801 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (060d5cf3f1eeeba4b6f3581bd52e626b)] -> name: uid] for :100 seconds
-2022-10-10 15:10:837 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:837 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:900 INFO  Day1:43 - Entering password....UbysAmz
-2022-10-10 15:10:974 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:601 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:857 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:306 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:356 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:556 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:564 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (060d5cf3f1eeeba4b6f3581bd52e626b)] -> name: uid] for :100 seconds
-2022-10-10 15:10:691 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:691 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:756 INFO  Day1:43 - Entering password....UbysAmy
-2022-10-10 15:10:810 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:59 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:454 INFO  TestBase:60 - Initialize Web driver: 215759534
-2022-10-10 15:10:456 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:456 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:465 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:469 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:605 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:22 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:774 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:790 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (64383d9645042227cbb0383aa764a336)] -> name: uid] for :100 seconds
-2022-10-10 15:10:827 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:827 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:894 INFO  Day1:43 - Entering password....UbysAmz
-2022-10-10 15:10:959 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:776 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:23 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:645 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:692 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:869 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:880 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (64383d9645042227cbb0383aa764a336)] -> name: uid] for :100 seconds
-2022-10-10 15:10:905 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:905 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:129 INFO  Day1:43 - Entering password....UbysAmy
-2022-10-10 15:10:191 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:251 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:620 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 15:10:623 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:623 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:639 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:680 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:859 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:257 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:925 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:939 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (2df28a34bc11ca69e4cb1e0c2f0dd17d)] -> name: uid] for :100 seconds
-2022-10-10 15:10:974 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:975 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:40 INFO  Day1:43 - Entering password....UbysAmz
-2022-10-10 15:10:106 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:958 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:201 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:738 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:784 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:941 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:949 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (2df28a34bc11ca69e4cb1e0c2f0dd17d)] -> name: uid] for :100 seconds
-2022-10-10 15:10:974 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:974 INFO  Day1:38 - entering uid...
-2022-10-10 15:10:236 INFO  Day1:43 - Entering password....
-2022-10-10 15:10:289 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:680 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:521 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 15:10:524 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:524 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:535 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:538 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:703 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:108 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:251 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:265 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (35f6c5fa142d23f2f4f4593de849567c)] -> name: uid] for :100 seconds
-2022-10-10 15:10:309 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:310 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:370 INFO  Day1:43 - Entering password....UbysAmz
-2022-10-10 15:10:426 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:72 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:313 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:744 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:792 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:884 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:892 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (35f6c5fa142d23f2f4f4593de849567c)] -> name: uid] for :100 seconds
-2022-10-10 15:10:917 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:917 INFO  Day1:38 - entering uid...
-2022-10-10 15:10:105 INFO  Day1:43 - Entering password....
-2022-10-10 15:10:153 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:504 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:538 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:851 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 15:10:677 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 15:10:680 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:680 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:696 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:700 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:844 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:458 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 15:10:461 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:461 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 15:10:470 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 15:10:474 INFO  WaitHelper:78 - page is loaded
-2022-10-10 15:10:614 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 15:10:18 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 15:10:123 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 15:10:138 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (529659867d91344ab067fba537e7365f)] -> name: uid] for :100 seconds
-2022-10-10 15:10:174 INFO  WaitHelper:91 - element is visible now
-2022-10-10 15:10:175 INFO  Day1:38 - entering uid...mngr444993
-2022-10-10 15:10:243 INFO  Day1:43 - Entering password....UbysAmz
-2022-10-10 15:10:309 INFO  Day1:49 - Clicking on button login....
-2022-10-10 15:10:916 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:835 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 17:10:837 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:837 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:852 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:855 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:23 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:522 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:184 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:212 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (da2500db079bed98a7b1b685f3282ba1)] -> name: uid] for :100 seconds
-2022-10-10 17:10:254 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:255 INFO  Day3:38 - entering uid...mngr444993
-2022-10-10 17:10:322 INFO  Day3:43 - Entering password....UbysAmz
-2022-10-10 17:10:387 INFO  Day3:49 - Clicking on button login....
-2022-10-10 17:10:143 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:634 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 17:10:639 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:639 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:648 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:651 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:801 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:235 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:850 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:868 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (31ef9efaf52869756bad01bef864b414)] -> name: uid] for :100 seconds
-2022-10-10 17:10:931 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:931 INFO  Day3:34 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:932 INFO  Day3:39 - entering uid...mngr444993
-2022-10-10 17:10:31 INFO  Day3:44 - Entering password....UbysAmz
-2022-10-10 17:10:130 INFO  Day3:50 - Clicking on button login....
-2022-10-10 17:10:860 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:370 INFO  TestBase:60 - Initialize Web driver: 726843606
-2022-10-10 17:10:375 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:375 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:390 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:396 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:549 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:115 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:418 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:434 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (e2f3fe8e8dc54163a00623f8739e5063)] -> name: uid] for :100 seconds
-2022-10-10 17:10:481 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:481 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:481 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:549 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:616 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:237 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:246 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:253 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:256 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:259 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:270 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:273 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:255 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 17:10:258 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:258 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:269 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:272 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:407 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:806 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:650 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:667 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (26d70c816d25053b92adb1003781209c)] -> name: uid] for :100 seconds
-2022-10-10 17:10:706 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:706 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:707 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:782 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:840 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:729 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:738 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:746 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:751 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:755 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:761 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:763 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:696 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 17:10:700 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:700 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:709 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:714 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:848 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:242 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:932 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:949 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (30055d6091a99d9e050dfbe6e637b3bb)] -> name: uid] for :100 seconds
-2022-10-10 17:10:01 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:02 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:02 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:64 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:142 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:966 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:974 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:984 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:988 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:991 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:03 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:04 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:85 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 17:10:87 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:87 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:97 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:100 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:250 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:648 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:124 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:142 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (cfe955f5c11c132661b84adcb31e2c28)] -> name: uid] for :100 seconds
-2022-10-10 17:10:178 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:179 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:179 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:250 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:313 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:424 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:435 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:450 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:454 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:456 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:468 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:470 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:997 INFO  TestBase:60 - Initialize Web driver: 49318987
-2022-10-10 17:10:00 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:00 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:09 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:12 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:143 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:547 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:413 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:426 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (5fc9ae6f5d1fcacd67a56c71c2185fbf)] -> name: uid] for :100 seconds
-2022-10-10 17:10:465 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:465 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:466 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:524 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:587 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:451 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:457 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:468 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:472 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:477 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:485 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:486 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:422 INFO  TestBase:60 - Initialize Web driver: 1058650291
-2022-10-10 17:10:425 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:425 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:434 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:439 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:576 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:986 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:939 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:953 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (f1a645e568e49f3ab1b1d4bda4207302)] -> name: uid] for :100 seconds
-2022-10-10 17:10:993 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:994 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:994 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:62 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:143 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:986 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:995 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:02 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:08 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:13 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:17 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:23 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:191 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 17:10:194 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:194 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:203 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:206 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:331 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:741 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:77 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:155 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (db5d8c4327dfdf2a77b01aa98282f867)] -> name: uid] for :100 seconds
-2022-10-10 17:10:204 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:204 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:205 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:317 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:657 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:59 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:71 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:81 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:85 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:92 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:98 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:102 INFO  TestBase:143 - **************loginToApplicationFinished***************
-2022-10-10 17:10:159 INFO  TestBase:60 - Initialize Web driver: 1288135425
-2022-10-10 17:10:163 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:163 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
-2022-10-10 17:10:172 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
-2022-10-10 17:10:178 INFO  WaitHelper:78 - page is loaded
-2022-10-10 17:10:329 INFO  TestBase:149 - excel location D:\REST\GruuProject\src\main\resources\configfile\testData.xlsx
-2022-10-10 17:10:717 INFO  TestBase:56 - *************loginToApplication Strated ****************
-2022-10-10 17:10:522 INFO  WaitHelper:19 - WaitHelper object created..
-2022-10-10 17:10:538 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (7e37496a81f315bcb3c0e135a0a1d222)] -> name: uid] for :100 seconds
-2022-10-10 17:10:579 INFO  WaitHelper:91 - element is visible now
-2022-10-10 17:10:579 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
-2022-10-10 17:10:579 INFO  Day3:42 - entering uid...mngr444993
-2022-10-10 17:10:648 INFO  Day3:47 - Entering password....UbysAmz
-2022-10-10 17:10:712 INFO  Day3:53 - Clicking on button login....
-2022-10-10 17:10:575 INFO  AlertHelper:16 - AlertHelper object is craeted..
-2022-10-10 17:10:582 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:594 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:601 INFO  AlertHelper:36 - alert text: User or Password is not valid
-2022-10-10 17:10:605 INFO  AlertHelper:20 - alert test: User or Password is not valid
-2022-10-10 17:10:611 INFO  AlertHelper:26 - accept Alert is done...
-2022-10-10 17:10:613 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-10 20:10:168 INFO  TestBase:60 - Initialize Web driver: 917277283
+2022-10-10 20:10:178 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 20:10:179 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-10 20:10:210 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-10 20:10:216 INFO  WaitHelper:78 - page is loaded
+2022-10-10 20:10:800 INFO  TestBase:149 - excel location D:\Project\GruuProject\src\main\resources\configfile\testData.xlsx
+2022-10-10 20:10:140 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-10 20:10:623 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-10 20:10:689 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (203c9c7dec6aae229e864de86142dd66)] -> name: uid] for :100 seconds
+2022-10-10 20:10:645 INFO  WaitHelper:91 - element is visible now
+2022-10-10 20:10:646 INFO  Day3:37 - Hế lô lại là mình đây, Day 3
+2022-10-10 20:10:647 INFO  Day3:42 - entering uid...mngr444993
+2022-10-10 20:10:195 INFO  Day3:47 - Entering password....UbysAmz
+2022-10-10 20:10:388 INFO  Day3:53 - Clicking on button login....
+2022-10-10 20:10:865 INFO  AlertHelper:16 - AlertHelper object is craeted..
+2022-10-10 20:10:886 INFO  AlertHelper:20 - alert test: User or Password is not valid
+2022-10-10 20:10:918 INFO  AlertHelper:20 - alert test: User or Password is not valid
+2022-10-10 20:10:932 INFO  AlertHelper:36 - alert text: User or Password is not valid
+2022-10-10 20:10:942 INFO  AlertHelper:20 - alert test: User or Password is not valid
+2022-10-10 20:10:301 INFO  AlertHelper:26 - accept Alert is done...
+2022-10-10 20:10:571 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:991 INFO  TestBase:60 - Initialize Web driver: 861522296
+2022-10-16 16:10:997 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:998 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:15 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:23 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:197 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 16:10:823 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:824 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 16:10:72 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 16:10:267 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 16:10:338 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:246 INFO  TestBase:60 - Initialize Web driver: 1318475957
+2022-10-16 16:10:254 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:254 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:271 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:276 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:472 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:976 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:977 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 16:10:31 INFO  TestBase:60 - Initialize Web driver: 712732521
+2022-10-16 16:10:48 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:49 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:74 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:81 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:363 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:376 INFO  TestBase:89 - driver is null
+2022-10-16 16:10:379 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 16:10:826 INFO  TestBase:56 - *************clickToForgotPass Strated ****************
+2022-10-16 16:10:801 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:801 INFO  LoginOrangeHRM:72 - Clicking on forgot password....
+2022-10-16 16:10:917 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:919 INFO  TestBase:143 - **************clickToForgotPassFinished***************
+2022-10-16 16:10:17 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 16:10:642 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:646 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 16:10:850 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 16:10:978 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 16:10:64 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:55 INFO  TestBase:60 - Initialize Web driver: 540092563
+2022-10-16 16:10:71 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:72 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:111 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:119 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:370 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:411 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:411 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 16:10:424 INFO  TestBase:89 - driver is null
+2022-10-16 16:10:428 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 16:10:967 INFO  TestBase:56 - *************clickToForgotPass Strated ****************
+2022-10-16 16:10:519 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:520 INFO  LoginOrangeHRM:72 - Clicking on forgot password....
+2022-10-16 16:10:911 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:912 INFO  TestBase:143 - **************clickToForgotPassFinished***************
+2022-10-16 16:10:02 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 16:10:651 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:652 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 16:10:750 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 16:10:854 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 16:10:921 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 16:10:594 INFO  TestBase:60 - Initialize Web driver: 650410100
+2022-10-16 16:10:605 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:606 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:664 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:704 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:912 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:966 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:855 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 16:10:234 INFO  TestBase:60 - Initialize Web driver: 1594065480
+2022-10-16 16:10:249 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 16:10:249 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 16:10:286 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 16:10:307 INFO  WaitHelper:78 - page is loaded
+2022-10-16 16:10:717 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 16:10:811 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:652 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 17:10:798 INFO  TestBase:89 - driver is null
+2022-10-16 17:10:805 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 17:10:395 INFO  TestBase:60 - Initialize Web driver: 712732521
+2022-10-16 17:10:422 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:422 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 17:10:440 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 17:10:448 INFO  WaitHelper:78 - page is loaded
+2022-10-16 17:10:672 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 17:10:712 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:713 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 17:10:728 INFO  TestBase:89 - driver is null
+2022-10-16 17:10:731 INFO  TestBase:143 - **************clickToCancelFinished***************
+2022-10-16 17:10:223 INFO  TestBase:56 - *************clickToForgotPass Strated ****************
+2022-10-16 17:10:708 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:708 INFO  LoginOrangeHRM:72 - Clicking on forgot password....
+2022-10-16 17:10:707 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:708 INFO  TestBase:143 - **************clickToForgotPassFinished***************
+2022-10-16 17:10:776 INFO  TestBase:56 - *************loginToApplication Strated ****************
+2022-10-16 17:10:339 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:340 INFO  LoginOrangeHRM:48 - entering username...Admin
+2022-10-16 17:10:448 INFO  LoginOrangeHRM:54 - entering password...admin123
+2022-10-16 17:10:557 INFO  LoginOrangeHRM:60 - Clicking on button login....
+2022-10-16 17:10:627 INFO  TestBase:143 - **************loginToApplicationFinished***************
+2022-10-16 17:10:461 INFO  TestBase:60 - Initialize Web driver: 557725225
+2022-10-16 17:10:470 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:470 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-10-16 17:10:488 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-10-16 17:10:494 INFO  WaitHelper:78 - page is loaded
+2022-10-16 17:10:672 INFO  TestBase:56 - *************clickToCancel Strated ****************
+2022-10-16 17:10:715 INFO  WaitHelper:19 - WaitHelper object created..
+2022-10-16 17:10:715 INFO  ResetPassword:34 - Clicking on button cancel....
+2022-10-16 17:10:112 INFO  TestBase:143 - **************clickToCancelFinished***************
